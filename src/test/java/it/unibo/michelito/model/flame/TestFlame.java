@@ -7,7 +7,7 @@ import it.unibo.michelito.model.flame.api.FlamePropagation;
 import it.unibo.michelito.model.flame.impl.FlameFactoryImpl;
 import it.unibo.michelito.model.flame.impl.FlamePropagationImpl;
 import it.unibo.michelito.model.maze.impl.MazeImpl;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
 import it.unibo.michelito.model.player.impl.PlayerImpl;
 import it.unibo.michelito.model.enemy.impl.EnemyImpl;
 import it.unibo.michelito.model.box.impl.BoxImpl;

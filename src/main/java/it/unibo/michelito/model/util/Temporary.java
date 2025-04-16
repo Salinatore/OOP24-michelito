@@ -1,4 +1,4 @@
-package it.unibo.michelito.model.modelutil;
+package it.unibo.michelito.model.util;
 
 /**
  * Represents all {@link MazeObject} that could be destroyed or eliminated.

@@ -1,8 +1,8 @@
 package it.unibo.michelito.model.box;
 
 import it.unibo.michelito.model.box.impl.BoxImpl;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
-import it.unibo.michelito.model.modelutil.hitbox.impl.HitBoxFactoryImpl;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.impl.HitBoxFactoryImpl;
 import it.unibo.michelito.util.ObjectType;
 import it.unibo.michelito.util.Position;
 

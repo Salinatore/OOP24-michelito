@@ -1,7 +1,7 @@
 package it.unibo.michelito.controller.objectsadapter.api;
 
 import it.unibo.michelito.controller.levelgenerator.LevelGenerator;
-import it.unibo.michelito.model.modelutil.MazeObject;
+import it.unibo.michelito.model.util.MazeObject;
 
 import java.util.Set;
 

@@ -6,8 +6,8 @@ import it.unibo.michelito.model.flame.api.FlamePropagation;
 import it.unibo.michelito.model.flame.impl.FlameFactoryImpl;
 import it.unibo.michelito.model.flame.impl.FlamePropagationImpl;
 import it.unibo.michelito.model.maze.api.Maze;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
-import it.unibo.michelito.model.modelutil.hitbox.impl.HitBoxFactoryImpl;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.impl.HitBoxFactoryImpl;
 import it.unibo.michelito.util.ObjectType;
 import it.unibo.michelito.util.Position;
 

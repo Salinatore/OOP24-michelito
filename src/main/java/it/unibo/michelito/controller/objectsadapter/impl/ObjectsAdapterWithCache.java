@@ -1,7 +1,7 @@
 package it.unibo.michelito.controller.objectsadapter.impl;
 
 import it.unibo.michelito.controller.objectsadapter.api.ObjectsAdapter;
-import it.unibo.michelito.model.modelutil.MazeObject;
+import it.unibo.michelito.model.util.MazeObject;
 import it.unibo.michelito.util.GameObject;
 
 import java.util.HashMap;

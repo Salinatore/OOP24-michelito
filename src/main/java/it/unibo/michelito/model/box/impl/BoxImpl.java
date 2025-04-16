@@ -3,8 +3,8 @@ package it.unibo.michelito.model.box.impl;
 import it.unibo.michelito.model.box.api.Box;
 import it.unibo.michelito.util.Position;
 import it.unibo.michelito.util.ObjectType;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
-import it.unibo.michelito.model.modelutil.hitbox.impl.HitBoxFactoryImpl;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.impl.HitBoxFactoryImpl;
 
 /**
  * Implementation of the {@link Box} interface.

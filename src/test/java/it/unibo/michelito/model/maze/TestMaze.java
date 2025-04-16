@@ -5,7 +5,7 @@ import it.unibo.michelito.controller.playercommand.impl.MoveCommand;
 import it.unibo.michelito.model.box.impl.BoxImpl;
 import it.unibo.michelito.model.enemy.impl.EnemyImpl;
 import it.unibo.michelito.model.maze.impl.MazeImpl;
-import it.unibo.michelito.model.modelutil.Temporary;
+import it.unibo.michelito.model.util.Temporary;
 import it.unibo.michelito.util.Direction;
 import it.unibo.michelito.util.Position;
 import org.junit.jupiter.api.BeforeEach;

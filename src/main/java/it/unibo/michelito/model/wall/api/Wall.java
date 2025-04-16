@@ -1,6 +1,6 @@
 package it.unibo.michelito.model.wall.api;
 
-import it.unibo.michelito.model.modelutil.MazeObject;
+import it.unibo.michelito.model.util.MazeObject;
 
 /**
  * Represents a generic Wall in the game.

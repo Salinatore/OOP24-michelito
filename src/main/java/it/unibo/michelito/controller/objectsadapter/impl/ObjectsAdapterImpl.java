@@ -4,7 +4,7 @@ import it.unibo.michelito.model.blanckspace.impl.BlankSpaceImpl;
 import it.unibo.michelito.model.box.impl.BoxImpl;
 import it.unibo.michelito.model.door.impl.DoorImpl;
 import it.unibo.michelito.model.enemy.impl.EnemyImpl;
-import it.unibo.michelito.model.modelutil.MazeObject;
+import it.unibo.michelito.model.util.MazeObject;
 import it.unibo.michelito.model.player.impl.PlayerImpl;
 import it.unibo.michelito.model.wall.impl.WallImpl;
 import it.unibo.michelito.util.GameObject;

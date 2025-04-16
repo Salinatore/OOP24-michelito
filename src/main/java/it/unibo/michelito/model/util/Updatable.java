@@ -1,4 +1,4 @@
-package it.unibo.michelito.model.modelutil;
+package it.unibo.michelito.model.util;
 
 import it.unibo.michelito.model.maze.api.Maze;
 

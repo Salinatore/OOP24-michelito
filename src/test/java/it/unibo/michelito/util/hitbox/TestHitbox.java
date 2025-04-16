@@ -1,9 +1,9 @@
 package it.unibo.michelito.util.hitbox;
 
 import it.unibo.michelito.util.Position;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBoxFactory;
-import it.unibo.michelito.model.modelutil.hitbox.impl.HitBoxFactoryImpl;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.api.HitBoxFactory;
+import it.unibo.michelito.model.util.hitbox.impl.HitBoxFactoryImpl;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

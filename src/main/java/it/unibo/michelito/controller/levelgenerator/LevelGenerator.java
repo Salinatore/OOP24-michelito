@@ -44,7 +44,7 @@ public class LevelGenerator implements Function<Integer, Set<GameObject>> {
 
      private Set<GameObject> generate(final int levelNumber) {
          final Set<GameObject> maze = new HashSet<>(baseMaze());
-         final String filePath = "level/level" + levelNumber + ".txt";
+         final String filePath = "it.unibo.michelito/level/level" + levelNumber + ".txt";
          maze.addAll(baseMaze());
          if (levelNumber != TEST_MAZE_CODE) {
              final Set<GameObject> fileMaze = new HashSet<>(mazeFromFile(filePath));

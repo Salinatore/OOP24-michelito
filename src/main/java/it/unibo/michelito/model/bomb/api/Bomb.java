@@ -1,8 +1,8 @@
 package it.unibo.michelito.model.bomb.api;
 
 import it.unibo.michelito.model.maze.api.Maze;
-import it.unibo.michelito.model.modelutil.Temporary;
-import it.unibo.michelito.model.modelutil.Updatable;
+import it.unibo.michelito.model.util.Temporary;
+import it.unibo.michelito.model.util.Updatable;
 
 /**
  * Represents a bomb in the {@link Maze}.

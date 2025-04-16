@@ -1,7 +1,7 @@
 package it.unibo.michelito.model.maze.api;
 
 import it.unibo.michelito.controller.playercommand.api.PlayerCommand;
-import it.unibo.michelito.model.modelutil.Updatable;
+import it.unibo.michelito.model.util.Updatable;
 import it.unibo.michelito.util.GameObject;
 
 import java.util.Set;

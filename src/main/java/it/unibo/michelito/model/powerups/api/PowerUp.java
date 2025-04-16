@@ -1,6 +1,6 @@
 package it.unibo.michelito.model.powerups.api;
 
-import it.unibo.michelito.model.modelutil.Temporary;
+import it.unibo.michelito.model.util.Temporary;
 import it.unibo.michelito.model.player.api.ModifiablePlayer;
 import it.unibo.michelito.model.player.api.Player;
 

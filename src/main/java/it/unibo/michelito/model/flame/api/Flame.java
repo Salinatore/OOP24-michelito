@@ -1,7 +1,7 @@
 package it.unibo.michelito.model.flame.api;
 
-import it.unibo.michelito.model.modelutil.Temporary;
-import it.unibo.michelito.model.modelutil.Updatable;
+import it.unibo.michelito.model.util.Temporary;
+import it.unibo.michelito.model.util.Updatable;
 
 /**
  * A flame that is created when a bomb explodes.

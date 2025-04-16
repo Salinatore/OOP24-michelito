@@ -1,8 +1,8 @@
-package it.unibo.michelito.model.modelutil.hitbox.impl;
+package it.unibo.michelito.model.util.hitbox.impl;
 
 import it.unibo.michelito.util.Position;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBoxFactory;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.api.HitBoxFactory;
 
 import java.util.Objects;
 

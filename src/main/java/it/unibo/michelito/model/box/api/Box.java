@@ -1,6 +1,6 @@
 package it.unibo.michelito.model.box.api;
 
-import it.unibo.michelito.model.modelutil.Temporary;
+import it.unibo.michelito.model.util.Temporary;
 
 /**
  * Represents a generic box in the game.

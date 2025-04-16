@@ -2,7 +2,7 @@ package it.unibo.michelito.model.door.api;
 
 import it.unibo.michelito.model.enemy.api.Enemy;
 import it.unibo.michelito.model.maze.api.Maze;
-import it.unibo.michelito.model.modelutil.Updatable;
+import it.unibo.michelito.model.util.Updatable;
 
 /**
  * Represents a generic door in the game.

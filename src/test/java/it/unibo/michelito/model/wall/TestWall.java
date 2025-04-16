@@ -1,7 +1,7 @@
 package it.unibo.michelito.model.wall;
 
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
-import it.unibo.michelito.model.modelutil.hitbox.impl.HitBoxFactoryImpl;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.impl.HitBoxFactoryImpl;
 import it.unibo.michelito.model.wall.impl.WallImpl;
 import it.unibo.michelito.util.ObjectType;
 import it.unibo.michelito.util.Position;

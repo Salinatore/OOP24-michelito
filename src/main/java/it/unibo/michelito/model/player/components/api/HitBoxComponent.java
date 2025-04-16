@@ -2,7 +2,7 @@ package it.unibo.michelito.model.player.components.api;
 
 import it.unibo.michelito.model.blanckspace.api.BlankSpace;
 import it.unibo.michelito.model.maze.api.Maze;
-import it.unibo.michelito.model.modelutil.hitbox.api.HitBox;
+import it.unibo.michelito.model.util.hitbox.api.HitBox;
 import it.unibo.michelito.model.powerups.api.PowerUp;
 import it.unibo.michelito.util.Position;
 import it.unibo.michelito.model.wall.api.Wall;

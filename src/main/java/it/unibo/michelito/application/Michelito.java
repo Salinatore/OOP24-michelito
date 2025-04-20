@@ -1,6 +1,5 @@
 package it.unibo.michelito.application;
 
-import it.unibo.michelito.controller.maincontroller.api.MainController;
 import it.unibo.michelito.controller.maincontroller.impl.MainControllerImpl;
 
 /**
@@ -18,7 +17,6 @@ public final class Michelito {
      * @param args is ignored.
      */
     public static void main(final String[] args) {
-        final MainController controller = new MainControllerImpl();
-        controller.start();
+        new MainControllerImpl().start();
     }
 }
